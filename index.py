@@ -1,19 +1,20 @@
-template=Import('python/template.py')
+template = Import('python/template.py')
+
 
 def index():
-    result=template.entete()
-    result+=template.nav()
-    result+=template.titre("Bienvenue sur le site AMAP'PATATE")
-    result+=ecole()
-    result+=contacter()
-    result+=template.footer()
+    result = template.entete()
+    result += template.nav()
+    result += template.titre("Bienvenue sur le site AMAP'PATATE")
+    result += ecole()
+    result += contacter()
+    result += template.footer()
     return result
 
-
     return result
+
 
 def ecole():
-    ecole='''
+    ecole = '''
         <section id="ecole">
              <h2>AMAP'PATATE !</h2>
 				<div class="row">
@@ -40,8 +41,9 @@ def ecole():
     '''
     return ecole
 
+
 def contacter():
-    contact='''
+    contact = '''
         <section id="contacter">
               <h2>Des questions ou des commentaires?</h2>
     			    <div class="row">
@@ -56,10 +58,7 @@ def contacter():
      				</div>
         </section>
         '''
-    if "nom" in Session() and Session()["nom"]!='':
-        contact+=Session()["nom"]+" , votre message a bien été enregistré "
+    if "nom" in Session() and Session()["nom"] != '':
+        contact += Session()["nom"] + " , votre message a bien été enregistré "
 
     return contact
-
-
-
