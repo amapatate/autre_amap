@@ -1,0 +1,111 @@
+<!DOCTYPE html><html lang="fr" prefix="og: http://ogp.me/ns#">
+<head><meta charset="utf-8">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4ea64e">
+    <meta name="msapplication-TileColor" content="#4ea64e">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#4ea64e">
+    <link rel="search" type="application/opensearchdescription+xml" title="Pixabay" href="https://pixabay.com/static/misc/opensearch.xml">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/base23.min.css">
+    <!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+    
+    <title>Error 404</title>
+    <style>
+        body:before {
+            position: fixed; top: 0; right: -10px; bottom: 35px; left: -10px; z-index: -1;
+            content: ""; background: url(/static/img/faces.jpg); background-size: cover;
+        }
+    </style>
+
+</head>
+<body class="no_header_search">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CF9ZN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5CF9ZN');</script>
+<div id="wrapper">
+    <div id="header"><div id="header_inner">
+        <div class="pure-menu pure-menu-horizontal pure-menu-open">
+            <ul><li class="pure-dropdown hide-xs hide-sm hide-md"><a href="/fr/editors_choice/">Parcourir <i class="arrow"></i></a><ul class="pure-menu-children"><li class="mm_inc"><a href="/fr/editors_choice/">Choix de l'éditeur</a></li><li class="mm_inc"><a href="/fr/photos/">Images</a></li><li class="mm_inc mm_sep"><a href="/fr/videos/">Vidéos</a></li><li class="pure-menu-separator"></li><li class="mm_inc"><a href="/fr/users/">Photographes</a></li><li class="mm_inc mm_sep"><a href="/fr/cameras/">Appareils photo</a></li></ul></li><li class="hide-xs hide-sm hide-md mum_inc"><a href="/fr/accounts/register/">Inscrivez-vous</a></li><li class="hide-xs hide-sm hide-md hide-lg mum_inc"><a href="/fr/accounts/login/?next=/android-chrome-192x192.png">Connexion</a></li><li class="pure-dropdown hide-lg hide-xl"><a><i class="icon icon_menu_user"></i></a><ul id="mobile_user_menu" class="pure-menu-children"></ul></li><li class="pure-dropdown hide-xs hide-sm hide-md"><a><i class="icon icon_menu_dots"></i></a><ul class="pure-menu-children"><li class="mm_inc"><a href="/fr/service/faq/">FAQ</a></li><li class="mm_inc"><a href="/fr/forum/">Forum</a></li><li class="mm_inc"><a href="/fr/blog/">Blog</a></li></ul></li><li class="pure-dropdown hide-lg hide-xl"><a><i class="icon icon_menu_bars"></i></a><ul id="mobile_menu" class="pure-menu-children"></ul></li></ul>
+        </div>
+        <a id="logo" href="/" class="hover_opacity"></a>
+        
+    </div></div>
+    <div id="content" class="clearfix">
+<div style="position:absolute;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.4);z-index:-1"></div>
+<div style="padding:20px">
+    <div style="margin:5% auto 0">
+        <div style="text-align:center;text-shadow:0 1px 10px rgba(0,0,0,.7)">
+            <p style="color:#fff;font-size:24px;margin:0 0 10px">Error 404</p>
+            <h1 style="margin:0 0 75px;line-height:1;font-size:40px;color:#fff">
+                Page non trouvée
+                
+            </h1>
+        </div>
+        
+            <form class="media_search search_xl" action="/fr/photos/" method="get"><table><tr><td><input type="text" id="id_q" name="q" value="" placeholder="Chercher images, images vectorielles et vidéos" data-autofocus></td><td class="hide-xs"><div class="dd_box"><span class="image_type hide-sm" style="margin-right:5px">Toutes les images</span><i class="arrow"></i></div><div class="pure-form bubble sw"><table><tr><th>Type de média</th><td><label><input checked type="radio" name="image_type" value=""> Toutes les images</label><label><input type="radio" name="image_type" value="photo"> Photos</label><label><input type="radio" name="image_type" value="vector"> Images vectorielles</label><label><input type="radio" name="image_type" value="illustration"> Illustrations</label><label><input type="radio" name="image_type" value="video"> Vidéos</label></td></tr><tr class="image_option"><th>Orientation</th><td><label><input type="checkbox" name="orientation" value="horizontal"> Horizontal</label><label><input type="checkbox" name="orientation" value="vertical"> Vertical</label></td></tr><tr class="video_option"><th>Effets</th><td><label><input type="checkbox" name="animation" value="1"> Animation</label><label><input type="checkbox" name="slow_motion" value="1"> Ralenti</label><label><input type="checkbox" name="time_lapse" value="1"> Accéléré</label></td></tr><tr><th style="vertical-align:middle">Catégorie</th><td><select name="cat"><option value="" selected>Tous</option><option value="business">Affaires/Finance</option><option value="food">Alimentation/Boisson</option><option value="animals">Animaux</option><option value="buildings">Architecture/Bâtiments</option><option value="backgrounds">Arrières plans/Textures</option><option value="fashion">Beauté/Mode</option><option value="industry">Industrie/Artisanat</option><option value="computer">Informatique/Communication</option><option value="places">Lieux/Monuments</option><option value="music">Musique</option><option value="nature">Nature/Paysages</option><option value="people">Personnes</option><option value="religion">Religion</option><option value="health">Santé/Médical</option><option value="science">Science/Technologie</option><option value="sports">Sports</option><option value="transportation">Transport/Trafic</option><option value="travel">Voyages/Vacances</option><option value="education">Éducation</option><option value="feelings">Émotions</option></select></td></tr><tr class="image_option"><th style="vertical-align:middle">Plus grand que</th><td style="ccolor:#777"><input type="text" name="min_width" value="" placeholder="Largeur"><span class="times">&times;</span><input type="text" name="min_height" value="" placeholder="Hauteur"> px
+                </td></tr><tr class="image_option"><th>Couleur</th><td><label><input type="checkbox" name="colors" value="transparent"> Transparent</label><input id="cf_grayscale" class="cf_grayscale" type="checkbox" name="colors" value="grayscale" style="float:none"><label style="display:inline" for="cf_grayscale"> Noir et blanc</label><div class="color_filter bg_colors"><input id="cf_red" type="checkbox" name="colors" value="red"><label for="cf_red" class="red"></label><input id="cf_orange" type="checkbox" name="colors" value="orange"><label for="cf_orange" class="orange"></label><input id="cf_yellow" type="checkbox" name="colors" value="yellow"><label for="cf_yellow" class="yellow"></label><input id="cf_green" type="checkbox" name="colors" value="green"><label for="cf_green" class="green"></label><input id="cf_turquoise" type="checkbox" name="colors" value="turquoise"><label for="cf_turquoise" class="turquoise"></label><input id="cf_blue" type="checkbox" name="colors" value="blue"><label for="cf_blue" class="blue"></label><input id="cf_lilac" type="checkbox" name="colors" value="lilac"><label for="cf_lilac" class="lilac"></label><input id="cf_pink" type="checkbox" name="colors" value="pink"><label for="cf_pink" class="pink"></label><input id="cf_white" type="checkbox" name="colors" value="white"><label for="cf_white" class="white"></label><input id="cf_gray" type="checkbox" name="colors" value="gray"><label for="cf_gray" class="gray"></label><input id="cf_black" type="checkbox" name="colors" value="black"><label for="cf_black" class="black"></label><input id="cf_brown" type="checkbox" name="colors" value="brown"><label for="cf_brown" class="brown"></label></div></td></tr><tr class="video_option"><th>Résolution</th><td><label><input type="checkbox" name="resolution_4k" value="1"> 4K (2160p)</label><label><input type="checkbox" name="resolution_hd" value="1"> HD (1080p)</label></td></tr><tr><th style="font-weight:normal"><a href="#" onclick="$('#search_syntax').slideToggle(200);return false;">plus...</a></th><td style="min-width:200px;max-width:250px"><div id="search_syntax" style="display:none;white-space:normal">
+                        Utilisez AND, OR, NOT et () pour affiner votre recherche de résultats:
+                        <p style="white-space:nowrap"><i>flower AND (red OR blue) NOT rose</i></p>
+                        Recherche dans les portfolios d'utilisateur
+                        <div style="white-space:nowrap"><i>user:stux flower</i></div></div></td></tr></table></div></td><td style="width:1%"><input type="submit" value=" "></td></tr></table></form>
+    </div>
+</div>
+</div>
+    <div id="push"></div>
+</div>
+<div id="footer">
+    <div id="footer_inner">
+        <div class="hover_links hide-xs hide-sm" style="float:right;margin:2px 0 0 30px">
+            
+            <a href="https://www.facebook.com/pixabay" target="_blank"><i class="icon icon_facebook"></i></a>
+            <a href="https://twitter.com/pixabay" target="_blank"><i class="icon icon_twitter"></i></a>
+            <a href="https://plus.google.com/+Pixabay" target="_blank"><i class="icon icon_google_plus"></i></a>
+        </div>
+        <span style="margin-right:30px">© 2016 Pixabay</span>
+        <a style="margin-right:30px" class="dd_box menu hide-xs hide-sm hide-md">Images gratuites <i class="arrow"></i></a>
+        <div>
+            <a href="/fr/photos/?image_type=photo">Photos gratuites</a>
+            <a href="/fr/photos/?image_type=vector">Images vectorielles gratuites</a>
+            <a href="/fr/photos/?image_type=illustration">Illustrations gratuites</a>
+            <a href="/fr/videos/list/">Vidéos gratuites</a>
+        </div>
+        <a style="margin-right:30px" class="dd_box menu langs">Language <i class="arrow"></i></a>
+        <div><a href="/cs/">Čeština</a><a href="/da/">Dansk</a><a href="/de/">Deutsch</a><a href="/en/">English</a><a href="/es/">Español</a><a href="/fr/">Français</a><a href="/id/">Indonesia</a><a href="/it/">Italiano</a><a href="/hu/">Magyar</a><a href="/nl/">Nederlands</a><a href="/no/">Norsk</a><a href="/pl/">Polski</a><a href="/pt/">Português</a><a href="/ro/">Română</a><a href="/sk/">Slovenčina</a><a href="/fi/">Suomi</a><a href="/sv/">Svenska</a><a href="/tr/">Türkçe</a><a href="/vi/">Việt</a><a href="/th/">ไทย</a><a href="/bg/">Български</a><a href="/ru/">Русский</a><a href="/el/">Ελληνική</a><a href="/ja/">日本語</a><a href="/ko/">한국어</a><a href="/zh/">简体中文</a></div>
+        <a style="margin-right:30px" class="dd_box menu">Service <i class="arrow"></i></a>
+        <div style="min-width:80px">
+            <a href="/fr/blog/">Blog</a>
+            <a href="/fr/forum/">Forum</a>
+            <a href="/fr/service/about/">Mentions légales</a>
+            <a href="/fr/service/privacy/">Politique de confidentialité</a>
+        </div>
+        <a style="margin-right:30px" href="/api/docs/">API</a>
+        <a style="margin-right:30px" href="/fr/service/faq/">FAQ</a>
+        <a href="/fr/service/terms/">Conditions d'utilisation</a>
+    </div>
+</div>
+<div id="fb-root"></div><a id="toTop">▲</a>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+    window.jQuery || document.write('<script src="/static/js/jquery.js"><\/script>');
+    var LANG = 'fr', I18N_DELETE = 'Vraiment supprimer ?';
+</script>
+<script src="/static/js/base33.min.js"></script>
+
+
+</body>
+</html>
