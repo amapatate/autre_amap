@@ -8,6 +8,7 @@ USE `test_ienac`;
 -- Structure de la table `commentaires`
 --
 
+
 CREATE TABLE IF NOT EXISTS `commentaires` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `nom` varchar(100) NOT NULL,
